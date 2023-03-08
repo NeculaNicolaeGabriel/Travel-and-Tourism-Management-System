@@ -1,2 +1,2 @@
 # Travel-and-Tourism-Management-System
-Travel and Tourism Management System
+It is an application developed in java and MySql. This application in the first phase has a user registration function,and password recovery function in case. After logging in, the main window opens, where we can add/modify/delete user data. We can see vacation packages and hostels, and then we can book them. I also made a video presentation of the application, which can be found in the repository.
